@@ -1,0 +1,12 @@
+This SQL project displays:
+creating a database,
+creating tables in the database,
+inserting values into those tables,
+selecting from the tables,
+joining selections,
+grouping selections,
+ordering selections,
+limiting selections,
+updating tables,
+deleting values,
+selecting averages, sums, max, and mins.
